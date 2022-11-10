@@ -21,6 +21,8 @@ M.mason = {
     "stylua",
 
     -- python
+    "flake8",
+    "black",
     "pyright",
   },
 }

@@ -20,7 +20,7 @@ local sources = {
   b.formatting.rustfmt,
 
   -- python
-  b.formatting.prettier,
+  b.diagnostics.flake8,
   b.formatting.black,
 }
 
